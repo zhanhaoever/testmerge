@@ -1,18 +1,1 @@
-<<<<<<< HEAD
 q.equals(master->dev)
-
-=======
-q.equals(master)
->>>>>>> master
-
-abc;
-
-q.equals(111111111111)
-1
-
-abc;
-
-
-
-
-123123
