@@ -1,15 +1,1 @@
-q.equals(master1.2->dev)
-
-q.equals(master)
-
-abc;
-
-q.equals(111111111111)
-1
-
-abc;
-
-
-
-
-123123
+q.equals(1)
