@@ -1,9 +1,2 @@
-q.equals(111111111111)
-
-
-abc;
-
-
-
-
-123123
+q.equals(master)
+1
