@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 q.equals(master->dev)
 
+=======
+q.equals(master)
+>>>>>>> master
 
 abc;
 
