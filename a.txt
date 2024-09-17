@@ -1,1 +1,1 @@
-q.equals(d)
+q.equals(b)
