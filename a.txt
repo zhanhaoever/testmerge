@@ -1,4 +1,4 @@
-q.equals(master)
+q.equals(
 1
 
 abc;
