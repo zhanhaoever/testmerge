@@ -1,1 +1,1 @@
-q.equals(1)
+q.equals(0)
