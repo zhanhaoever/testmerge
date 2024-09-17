@@ -1,4 +1,4 @@
-q.equals(master->dev)
+q.equals(master1.2->dev)
 
 q.equals(master)
 
