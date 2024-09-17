@@ -1,4 +1,4 @@
-q.equals(dev1)
+q.equals(``)
 
 
 abc;
