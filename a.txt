@@ -1,1 +1,1 @@
-q.equals(x)
+q.equals(y)
