@@ -1,4 +1,4 @@
-q.equals(m2.6)
+q.equals(y);
 m2.3
 m2.5
 m2.6
